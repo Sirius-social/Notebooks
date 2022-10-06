@@ -1,2 +1,4 @@
 # Jupyter Notebooks
-Go no [https://mybinder.org/]`https://mybinder.org/`
+Go to https://mybinder.org/ and put **GitHub repository name URL** and optionally **Path to a notebook file** 
+
+Enjoy!
